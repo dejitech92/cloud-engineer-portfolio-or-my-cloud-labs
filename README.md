@@ -18,5 +18,5 @@ Hi! I'm Ayodeji — transitioning into tech with a focus on **Cloud Engineering*
 - Microsoft Learn
 
 ## 🧠 Follow My Progress
-- LinkedIn: [YourLinkedIn](link)
-- Twitter: [@yourhandle](link)
+- LinkedIn: [YourLinkedIn](http://linkedin.com/in/ayodeji-olaniyi-00b082375/)
+- Twitter: [@yourhandle](https://x.com/cloudeji25?s=21&t=oQDe3wlboEAzONs8MGKOJg)
